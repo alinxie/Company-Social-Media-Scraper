@@ -2,9 +2,10 @@
 =========================================
 Undisclosed Company Name Coding Challenge
 =========================================
-Directions:
+### Directions:
 * In terminal, run 'python challenge.py'
 * The script will take in a list of company url's in the file company_urls.txt store a json file for each of the url's.
+* Dependencies: requests, lxml
 
 ### Challenge:
 Given a url, get the social media handles contained in the website.
